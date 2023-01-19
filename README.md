@@ -19,21 +19,19 @@ RandomDAO is a platform for generating random numbers (aka randomness) by collab
 
 
 ## RandomDAO Network
-RandomDAO forming as a network of independant (unrelated) individuals, which its main logic is to give any individual, have access to internet, an equal opportunities to get incentives by using PoW fasion network, in exchange for an on-chain feeding by random numbers.
+RandomDAO forming as a network of independant (unrelated) individuals, which its main logic is to give any individual, having access to internet, an equal opportunities to get incentives by using PoW fasion network, in exchange for an on-chain feeding by random numbers.
 
-RandomDAO creates an exchange for randomness feeds in order to attract many undependant individuals as much is possible, where all individuals have the same chances to be feeders for each block.
+RandomDAO creates an exchange for randomness feeds in order to attract many independant individuals as much as possible, where all individuals have the same chances to be feeders for each block (a competition).
 
-As long the RandomDAO network will be bigger the randomness outcome will be much "random".
+As long as the RandomDAO network will be bigger then the randomness outcome will be more "random".
 
 ## Random Coin
 
-Is an ERC20 token that is minted, by an automated smart contract, for every randomness feeded by an individual. Once a random numbers (as a feed) verified by RandomDAO smart contract it mint new coins for the feeder (individual).
+Is an ERC20 token that is minted by an automated smart contract, for every random number were feeded by an individual. Once a random numbers (as a feed) verified by RandomDAO smart contract it mint new coins for the feeder (individual).
 
 RandomDAO smart contract produces competition between operators to give the 
 
-RandomDAO 
-
 ## Consumers
-Are on-chain applications (or smart contracts) that operates automated actions based on randomness. Access made through RandomDAO's smart contract and allowed only for consumers that had active staking of Random Coin.
+Are on-chain applications (or smart contracts) that operate automated actions based on randomness (or random numbers). Access made through RandomDAO's smart contract and allowed only for consumers that had active staking of Random Coin.
 
 ---
